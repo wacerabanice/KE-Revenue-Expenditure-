@@ -13,7 +13,7 @@ The dashboard visualizes key trends and comparisons in:
   [Central Bank of Kenya](https://www.centralbank.go.ke/statistics/government-finance-statistics/)
     
   DashBoard Snapshot:
-<a href="KenyaRevenueandExpenditureSnapshot.png"></a>
+<a href="Kenya Revenue and Expenditure Snapshot.png"></a>
 
   🧠 Use Cases
 - National and county government planning and reporting
