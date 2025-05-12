@@ -1,5 +1,5 @@
-# KE-Revenue-Expenditure-
-KE Revenue &amp; Expenditure 
+# KE-Revenue-Expenditure DashBoard:
+KE Revenue &amp; Expenditure DashBoard
 
 This is an interactive DashBoard with an Overview of Kenya's Revenue and Expenditure trends. 
 
